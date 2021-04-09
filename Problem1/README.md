@@ -39,8 +39,8 @@ AT111TA
 
 **Competition Input:**
 
-`input.txt` located in the `Problem2` folder
+`input.txt` located in the `Problem1` folder
 
 **Competition Output:**
 
-`15`
+`6969`
