@@ -15,14 +15,14 @@ From `input.txt`, find the longest shortened word. From `dictionary.txt`, figure
 File `input.txt` containing one shortened word per line (Ex: `d12n`).
 File `dictionary.txt` containing many long words, one word per line (ex: `defenestration`).
 
-​	**IMPORTANT NOTE: **
+**IMPORTANT NOTE: **
 
-​	You cannot just look at `dictionary.txt`, it will have random extra long words to prevent you from doing that ;)
-​	First find the longest word represented in `input.txt`, then find a matching word in `dictionary.txt`.
+You cannot just look at `dictionary.txt`, it will have random extra long words to prevent you from doing that ;)
+First find the longest word in `input.txt`, then find a matching word in `dictionary.txt`.
 
 **Expected Output:**
 
-Print the **actual longest word**. 
+Print the **longest word shared by both files**. 
 
 -----
 
