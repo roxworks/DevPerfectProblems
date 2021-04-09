@@ -32,9 +32,9 @@ At the end of four rounds, a winner will be announced.
 
 **Points**
 
-1. Points awarded 1st - 4th as 50, 25, 12, 6 multiplied by round (1 based round system) respectively 
-2. Each unsuccessful try costs 5 * round (yes you can be negative) 
-3. Unsuccessful finishing of problem costs 15 * round (yes you can be negative).
+1. Points awarded 1st - 4th as 50, 40, 30, 20 multiplied by round (1 based round system) respectively 
+2. Each unsuccessful try costs 4 * round (yes you can be negative) 
+3. Unsuccessful finishing of problem costs 10 * round (yes you can be negative).
 4. Specifically during the challenge round, tries and unsuccessful finishes incur no penalties. The challenge round exclusively results in additional points, no negatives.
 
 
