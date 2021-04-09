@@ -18,11 +18,11 @@ Print the **number** of unique filenames
 
 ```
 touch test.txt
-touch something
-touch somewhere
-touch something
+touch something.lua
+touch somewheresomehow.lua
+touch something.lua
 touch test.txt
-touch somethingelse
+touch somethingelse.js
 ```
 
 **Example Output:**
@@ -37,4 +37,4 @@ touch somethingelse
 
 **Competition Output:**
 
-`15`
+`10`

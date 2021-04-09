@@ -41,4 +41,4 @@ Print the **max total weight** of a single squat. (Print the max single-line sum
 
 **Competition Output:**
 
-`15`
+`42069`
